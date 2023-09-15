@@ -25,6 +25,8 @@ To install operating system.
 
 7.Choose Installation Type:Select the installation type. Common options include:"Custom" or "Advanced" for more control over partitions.
 
+![image](https://github.com/Reebak04/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118364993/534d907d-a673-4209-af95-5d0cb9e89df4)
+
 8.Create or Select a Partition:For Windows, you can create, format, and select partitions during this step.
 
 ![image](https://github.com/Reebak04/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118364993/0d2ab837-7fcd-416b-a8a8-42c11d8baac4)
@@ -32,6 +34,8 @@ To install operating system.
 9.Begin Installation:Confirm your partition selections and begin the installation process. This may take some time, depending on your hardware.
 
 10.Set Up User and Computer Details:Provide your full name, username, and password for the administrator (or root) account.Set your computer's name.
+
+![image](https://github.com/Reebak04/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118364993/e5c923e0-5c7d-4348-9b52-ab02d718be17)
 
 11.Configure Additional Settings:Follow on-screen prompts to customize additional settings, such as time and date, network settings, and privacy preferences.
 
