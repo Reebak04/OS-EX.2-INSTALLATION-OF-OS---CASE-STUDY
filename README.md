@@ -25,6 +25,8 @@ To install operating system.
 
 8.Create or Select a Partition:For Windows, you can create, format, and select partitions during this step.
 
+![image](https://github.com/Reebak04/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118364993/0d2ab837-7fcd-416b-a8a8-42c11d8baac4)
+
 9.Begin Installation:Confirm your partition selections and begin the installation process. This may take some time, depending on your hardware.
 
 10.Set Up User and Computer Details:Provide your full name, username, and password for the administrator (or root) account.Set your computer's name.
